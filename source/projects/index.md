@@ -3,6 +3,7 @@ title: Participation to research projects
 date: 2016-04-23 12:35:34
 ---
 
+- **2016-2018:** SPEDIV. Single Photon Emission and Detection for In-Vivo Nanoparticles Quantification. PhysiCancer project.
 - **2014-2018:** [t-Gate](http://tgate.univ-brest.fr) aka *theranostic-GATE*. ANR project.
 - **2014-2017:** [Dexter](http://www.agence-nationale-recherche.fr/?Project=ANR-13-IS03-0002). ANR project.
 - **2012-2014:** MC-SMART (*Monte-Carlo SMall Animal Radiation Therapy*). Physi-Cancer project.
