@@ -3,4 +3,6 @@
 
 http://dsarrut.github.io
 
+hexo generate
+hexo deploy
 

@@ -13,61 +13,68 @@ date: 2016-04-23 12:54:16
 <a name="current_phd"></a>
 ## Current PhDs
 
-* **Adrien Halty** (start 2015-05)
-    Absorbed dose quantification estimation for promising targeted radionuclide therapy cancer treatment.
+* **Antoine Robert** (start 2018-10)
+  Breathing motion correction in SPECT quantitation
+*Co-supervisor:  Simon Rit.*
+* **Joey Labour** (start 2018-10)
+  Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning
 *Co-supervisor:  Jean-Noel Badel.*
-* **Alessio Elia** (start 2015-01)
-   Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.
-*Co-supervisor:  Loic Grevillot.*
-* **Brent Huisman** (start 2013-09)
-   Towards real-time treatment control in protontherapy using prompt-radiation imaging: simulation and system optimization.
-*Co-supervisor:  Etienne Testa.*
 
 <a name="past_phd"></a>
 ## Past PhD (defended phd thesis)
-
-* **2015-11  Marie Fargier-Voiron **
-Optimisation et évaluation des performances d’un système à ultrasons en radiothérapie adaptative.
+* (15) **2019-10 Yue-Meng Feng**
+   Modeling and regularization in tomographic reconstruction for Compton camera imaging
+  *Co-supervisor:  Voichita Maxim, Jean-Michel Létang.*
+* (14) **2019-01 Alessio Elia ** 
+[Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/AlessioElia-phd-2019.pdf)
+*Co-supervisor:  Loic Grevillot.*
+* (13) **2017-05  Brent Fokke Bram Huisman **
+[Accelerated Clinical Prompt Gamma simulations for Proton Therapy.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/BrentHuisman_PhD_2017.pdf)
+*Co-supervisor:  Etienne Testa.*
+* (12) **2015-11  Marie Fargier-Voiron **
+[Optimisation et évaluation des performances d’un système à ultrasons en radiothérapie adaptative.](http://www.creatis.insa-lyon.fr/~dsarrut/articles/FargierVoiron-phd-2015.pdf)
 *Co-supervisor:  Marie-Claude Biston.*
-* **2013-12  Vivien Delmon**
+* (11) **2013-12  Vivien Delmon**
 [Recalage déformable de projections de scanner X à faisceau conique.](https://www.creatis.insa-lyon.fr/site/en/www.creatis.insa-lyon.fr/_srit/biblio/delmon2013a.html)
 *Co-supervisor:  S. Rit.*
-* **2013-11 Gauthier Bouilhol**
+* (10) **2013-11 Gauthier Bouilhol**
 [Incertitudes et mouvement dans le traitement des tumeurs pulmonaires: de la radiothérapie à l’hadronthérapie.](http://www.creatis.insa-lyon.fr/~dsarrut/articles/Bouilhol-phd-2013.pdf)
 *Co-supervisor:  M. Ayadi.*
-* **2011-12 Louise Grezes-Besset**
+* (9) **2011-12 Louise Grezes-Besset**
 [Suivi de la respiration par imagerie multimodalité dans le cadre de la radiothérapie du poumon.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/LouiseGrezesBesset_PHD_2011.pdf)
 *Co-supervisor:  P. Clarysse.*
-* **2011-10 Marie Vidal**
+* (8) **2011-10 Marie Vidal**
 [Evolution des modèles de calcul pour le logiciel de planification de la dose en Protonthérapie.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/MarieVidal_PhD_2011.pdf)
 *Co-supervisor:  P. François.*
-* **2011-10 Loic Grevillot**
+* (7) **2011-10 Loic Grevillot**
 [Development of Monte Carlo platform to assess patient dose distribution for proton and carbon ion therapy.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/LoicGrevillot_PhD_2011.pdf)
 *Co-supervisor:  N. Freud.*
-* **2010-07 Jef Vandemeulebroucke**
+* (6) **2010-07 Jef Vandemeulebroucke**
 [Breathing thorax modeling from 4D imaging for dynamic radiotherapeutic dose estimation.]((http://www.creatis.insa-lyon.fr/~dsarrut/phd/JefVandemeulebroucke_PHD_2010.pdf)
 *Co-supervisor:  P. Clarysse.*
-* **2010-06 Nabil Zahra**
+* (5) **2010-06 Nabil Zahra**
 [Mesure de dose en thérapie par ions carbone: mise en place d'un dispositif expérimental et simulations Monte­-Carlo.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/NabilZahra_PHD_2010.pdf)
 *Co-supervisor:  P. Lautesse.*
-* **2009-12 Jean-Noel Badel**
+* (4) **2009-12 Jean-Noel Badel**
 [Contrôle dosimétrique des traitements de radiothérapie par simulation Monte Carlo de l’image de dose portale transmise.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/JeanNoelBadel_PHD_2009.pdf)
 *Co-supervisor:  I. Magnin.*
-* **2007-11 Myriam Ayadi**
+* (3) **2007-11 Myriam Ayadi**
 [Dosimétrie dynamique (4D) pour le traitement du cancer du poumon.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/MyriamAyadi_PHD_2007.pdf)
 *Co-supervisor:  M. Boutemeur.*
-* **2007-09 Simon Rit**
+* (2) **2007-09 Simon Rit**
 [Acquisition d'images tomodensitométriques dynamiques (4D) à partir d'un tomographe à géométrie conique.](http://liris.cnrs.fr/Documents/Liris-3354.pdf)
 *Co-supervisor:  S. Miguet.*
-* **2006-02 Vlad Boldea**
+* (1) **2006-02 Vlad Boldea**
 [Intégration de la respiration en radiothérapie: apport du recalage déformable d'images.](http://www.creatis.insa-lyon.fr/~dsarrut/phd/VladBoldea_PhD_2006.pdf)
 *Co-supervisor:  S. Miguet.*
 
 <a name="postdoc"></a>
 ## PostDoc / Engineer advisor
 
+* 2018 - 2020 **Ane Etxebeste**
+* 2017 - 2019 **Olga Kochebina**
 * 2015 - 2017 **Thomas Cajgfinger**
-* 2015 - 2016 **Thomas Baudier** (research engineer)
+* 2015 - 2018 **Thomas Baudier** (research engineer)
 * 2014 - 2015 **Dominik Spinczyk**
 * 2013 - 2015 **Agata Krason** (research engineer)
 * 2013 - 2015 **François Smekens**
@@ -82,17 +89,57 @@ Optimisation et évaluation des performances d’un système à ultrasons en rad
 
 
 <a name="committees"></a>
-## Participation to PhD committees
+## Participation to PhD/HDR committees
 
+### 2019
+* **Brent van der Heyden** (Maastricht)
+Advanced Computed Tomography imaging in radiotherapy
+* **Rubén Sànchez de la Rosa** (Paris)
+Dual-energy CT tissue segmentation methods for Monte Carlo dose calculations in proton therapy
+* **Carlotta Trigila** (Orsay)
+ Development of a portable gamma imaging system for absorbed radiation dose control in molecular radiotherapy
+* **[HDR]** **Christelle Huet** (Saclay)
+Accidents radiologiques et radiothérapie stéréotaxique : développements méthodologiques pour une dosimétrie optimisée
+* **Isabel Almeida** (Maastricht)
+Dual-energy CT tissue segmentation methods for Monte Carlo dose calculations in proton therapy
+* **Jonathan Tranel** (Toulouse)
+Apport de l’imagerie multimodale dans la caractérisation de la distribution de sources radioactives de 166Ho dans un contexte de microcuriethérapie
+
+
+### 2018
+* **Luis Ammour** (Orsay)
+[Développement d’une sonde intracérébrale à pixels actifs pour l’imagerie bêta du cerveau du rat libre de ses mouvements](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Luis-Ammour-2018.pdf)
+* **Tony Younes** (Toulouse)
+Méthodologie pour la détermination de la dose absorbée dans le cas de champs non standards avec et sans hétérogénéités pour des faisceaux de photons de haute énergie
+* **Bastien Rigaud** (Rennes)
+[Radiothérapie adaptative guidée par l’imagerie anatomique](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Bastien-Rigaud-2018.pdf)
+* **[HDR]** **Jean-François Adam** (Grenoble) 
+Medical physics issues in synchrotron radiation imaging and radiotherapy modalities
+
+
+### 2017
+* **Sonia Selmi** (Grenoble)
+[Navigation en temps-réel pour la biopsie de prostate](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Sonia-Selmi-2017.pdf)
+* **Richard Brown** (Toulouse)
+[Microbrachytherapy treatment planning](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Richard-Brown-2017.pdf)
+* **Konstantinos Mountris** (Brest)
+[Modélisation biomécanique pour la radiothérapie peropératoire de la prostate](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Konstantinos-Mountris-2017.pdf)
+* **[HDR]** **Nick Reynaert** (Lille) 
+[Intégration d’une plateforme Monte Carlo et Imagerie par Résonance Magnétique pour augmenter la qualité des données médicales dans le cadre de la radiothérapie personnalisée](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Nick-Reynaert-2017.pdf)
 
 ### 2016
-
-
-* **Ludovic Demarzi** (Orsay)
-* **Benjamin Demol** (Lille)
-* **Mohamed Nassef** (Rennes)
-* **Hélène Feuillâtre** (Rennes)
-* **Isabelle Fonteille** (Grenoble)
+* **Paul Mignon** (Grenoble) 
+[Guidage robotisé d’une aiguille flexible sous échographie 3D pour la curiethérapie de prostate](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Paul-Mignon-2017.pdf)
+* **Ludovic Demarzi** (Orsay) 
+[Effets physiques et biologiques des faisceaux de protons balayés : mesures et modélisation pour des balayages séquentiels à haut débit](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Ludovic-Demarzi-2016.pdf)
+* **Benjamin Demol** (Lille) 
+[Méthodes d'intégration des images à résonance magnétique dans les calculs de dose Monte Carlo appliqués à la stéréotaxie intracrânienne](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Benjamin-Demol-2016.pdf)
+* **Mohamed Nassef** (Rennes) 
+[Monitoring de dose pour la radiothérapie adaptative du cancer de la prostate](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Mohamed-Nassef-2016.pdf)
+* **Hélène Feuillâtre** (Rennes) 
+[Détermination automatique de l’incidence optimale pour l’observation des lésions coronaires en imagerie rotationnelle R-X.](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Helene-Feuillatre-2016.pdf)
+* **Isabelle Fonteille** (Grenoble) 
+[Etude et conception d’un détecteur 2D transparent permettant le suivi en temps réel de l'administration des traitements RCMI](https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Isabelle-Fonteille-2016.pdf)
 
 ### 2015
 
